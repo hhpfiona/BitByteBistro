@@ -11,6 +11,8 @@ public class ShoppingList {
 	private String listStatus;
 	private Float estimatedTotalCost;
 
+	// Tony 到此一游
+
 	/**
 	 * Requires:
 	 * @param listOwner
