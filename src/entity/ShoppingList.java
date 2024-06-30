@@ -19,7 +19,7 @@ public class ShoppingList {
 	 * @param shoppingListName
 	 * @param listItems
 	 */
-	ShoppingList(String listOwner, String shoppingListName, List<Grocery> listItems) {
+	public ShoppingList(String listOwner, String shoppingListName, List<Grocery> listItems) {
 		this.listOwnder = listOwner;
 		this.shoppingListName = shoppingListName 
 		this.listItems = listItems;
